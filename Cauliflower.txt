@@ -1,2 +1,3 @@
 t:wq
 :wq:
+done and save in to remote site
